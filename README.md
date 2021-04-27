@@ -1,7 +1,5 @@
 ### Hi there 👋, I'm Anmol Naik
 
-<!--
-**anmolnaik7/anmolnaik7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -12,4 +10,4 @@ Here are some ideas to get you started:
 - [Instagram](instagram.com/anmol__naik) || [Linkedin](https://www.linkedin.com/in/anmol-naik/)
 - 😄 Pronouns: Anmol
 - ⚡ Fun fact: I love Cooking
--->
+
